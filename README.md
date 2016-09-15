@@ -1,7 +1,10 @@
 # webdriver-manager-alternate-cdn
 
 Evil company proxy forces me to do this.
-Yes, they blocked the original CDN.
+Yes, they blocked the original CDN:
+
+- https://selenium-release.storage.googleapis.com/
+- https://chromedriver.storage.googleapis.com/
 
 ### Protractor 3.1.1
 Protractor 3 is compatible with nodejs v4 and newer.
